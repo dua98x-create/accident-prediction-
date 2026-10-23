@@ -252,4 +252,4 @@ print(severity_map[predicted_class[0]])
 
 ## License
 
-This project is for learning and practice purposes. Add a license of your choice (for example MIT) if you plan to share it publicly.
+This project is for learning and practice purposes. 
